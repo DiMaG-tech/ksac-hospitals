@@ -1,0 +1,12 @@
+{
+  "sections": {
+    "main": {
+      "type": "treatment-lumbar-spondylosis",
+      "settings": {
+        "whatsapp_number": "+918106245454",
+        "phone_number": "+919866130743"
+      }
+    }
+  },
+  "order": ["main"]
+}
